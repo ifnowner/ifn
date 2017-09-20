@@ -42,3 +42,4 @@ ifn-client.html
 ifn-client.jnlp
 logs/ifn.log.lck
 
+/update_server_param.sh
