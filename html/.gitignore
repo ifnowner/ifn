@@ -14,7 +14,6 @@ hs_err_pid*
 
 # BLOCKCHAIN DB
 ifn_db/
-ifn_db*/
 *.log
 
 
@@ -24,22 +23,6 @@ ifn_db*/
 .idea
 .project
 .settings
-create-genesis-block-master/
-ifn.exe
-ifnservice.exe
-AUTHORS.txt
-ifn.properties
-ifn-default.properties
-conf/ifn-default.properties
+doc/
 *.gz
-builds/
-bundles/
-html/
-html/doc/
-classes/
-ifn-client-*.jar
-ifn-client.html
-ifn-client.jnlp
-logs/ifn.log.lck
 
-/nbproject/private/
